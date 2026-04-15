@@ -26,12 +26,6 @@ I am highly passionate about the intersection of software engineering and **Arti
 
 ---
 
-## 🔗 Socials:
-
-<a href="https://instagram.com/rioivano"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://linkedin.com/in/rioivano"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:rioivano5@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
 ## 💻 Tech Stack:
 
 ![Dart](https://img.shields.io/badge/Dart-2BB7F6?style=for-the-badge&logo=dart&logoColor=white)
@@ -75,7 +69,29 @@ I am highly passionate about the intersection of software engineering and **Arti
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+
 ---
+
+## 🔗 Socials:
+
+<a href="https://instagram.com/rioivano" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://linkedin.com/in/rioivano" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://tiktok.com/@rioivano" target="_blank">
+  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
+</a>
+<a href="https://x.com/rioivano" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+</a>
+<a href="https://youtube.com/@purapuraklipper?si=2pvb1QrlhbIZyvq8" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+</a>
+<a href="mailto:rioivano5@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 ### 📫 Let's Connect!
 - **Website:** [rioivano.github.io](https://rioivano.github.io)
